@@ -1,4 +1,5 @@
 # Define functions for equations in each unit
+import math 
 
 # Unit 1: Kinematics
 def kinematics():
